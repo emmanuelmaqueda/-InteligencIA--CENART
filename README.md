@@ -1,6 +1,4 @@
-
-
-
+![image](https://user-images.githubusercontent.com/64985126/137068242-74fd7ea2-e2e6-47b7-bc7e-64311b336e38.png)
 
 # ¿InteligenciA? Aproximación crítica a la inteligencia artificial
 
