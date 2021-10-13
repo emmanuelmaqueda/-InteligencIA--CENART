@@ -11,6 +11,9 @@
 ![image](https://user-images.githubusercontent.com/64985126/137068695-2b27353a-ab97-4838-9aef-61b49af97631.png)
 
 Ya en esta ventana buscaremos la opción de 'Convertir archivos subidos', si esa opción esta seleccionada hay que quitar esa configuración, en caso contrario nuestro Google Drive estará listo para aceptar los archivos a subir
+  
+![image](https://user-images.githubusercontent.com/64985126/137069530-5062b7ae-9806-4805-8100-ead3cda19404.png)
+
 
 ---
 
